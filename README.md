@@ -1,1 +1,0 @@
-# openshift-agent-based-installation
